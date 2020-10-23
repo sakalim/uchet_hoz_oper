@@ -1,0 +1,12 @@
+{
+    "DataSaource": {
+        "name": "agro",
+        "server": "...",
+        "port": 1521,
+        "database": "agro"
+    },
+
+    "server":{
+        "port" : 3000
+    }
+}
